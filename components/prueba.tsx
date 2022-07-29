@@ -2,7 +2,7 @@
 export const Prueba = () => {
   return (
     <div>
-        hola
+        Este es un componente de prueba
     
     </div>
   )
